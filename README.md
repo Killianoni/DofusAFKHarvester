@@ -13,13 +13,18 @@ First of all you need to install python.
 2. Install needed libraries (pyautogui, keyboard)
 
 `pip install keyboard pyautogui`
+
 or
+
 `pip3 install keyboard pyautogui`
 
 4. Chose your binds to use the bot
 Open the bot.py file and bind your key for "addKey" and "startKey".
+
 *addKey : Press it to set the ressource position*
+
 *startKey: Press it to start harvesting*
+
 5. Enjoy farming !
 ## How to use it ?
 
