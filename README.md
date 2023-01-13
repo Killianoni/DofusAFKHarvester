@@ -18,7 +18,8 @@ or
 
 `pip3 install keyboard pyautogui`
 
-4. Chose your binds to use the bot
+4. Chose your binds to use the bot.
+
 Open the bot.py file and bind your key for "addKey" and "startKey".
 
 *addKey : Press it to set the ressource position*
